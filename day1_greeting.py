@@ -1,3 +1,4 @@
 name = input("What's your name? ")
-print(Hello, " + name + "!")
-print("Welcome to coding.")
+age = input("What's your age? ")
+print("Hello, " + name + "! You are " + age + " years old.")
+print("Welcome to coding."
